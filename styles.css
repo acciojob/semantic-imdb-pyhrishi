@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+body{
+    /* padding: 1px; */
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+#movie{
+    font-style: normal;
+    font-family: Tahoma;
+    font-size: 40px;
+    color: rgb(20, 18, 122);   
+}
+
+#favquote{
+    font-style: oblique;
+    font-family: Helvetica;
+    font-size: 20px;
+    background-color: darksalmon;
+}
+
+#rr{
+    color: rgb(219, 22, 32);
+}
+
+#producer{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: rgb(131, 228, 136);
+}
